@@ -1,6 +1,6 @@
 
 FRONTEND:
-git clone ""
+git clone "https://github.com/Rijad-Ismailovic/sunray.git"
 cd frontend
 npm install
 npm run dev
